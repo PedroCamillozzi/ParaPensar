@@ -1,0 +1,8 @@
+C:\Users\Pedro\source\repos\ParaPensar\bin\Debug\ParaPensar.exe.config
+C:\Users\Pedro\source\repos\ParaPensar\bin\Debug\ParaPensar.exe
+C:\Users\Pedro\source\repos\ParaPensar\bin\Debug\ParaPensar.pdb
+C:\Users\Pedro\source\repos\ParaPensar\obj\Debug\ParaPensarEj1.csproj.AssemblyReference.cache
+C:\Users\Pedro\source\repos\ParaPensar\obj\Debug\ParaPensarEj1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pedro\source\repos\ParaPensar\obj\Debug\ParaPensarEj1.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\ParaPensar\obj\Debug\ParaPensar.exe
+C:\Users\Pedro\source\repos\ParaPensar\obj\Debug\ParaPensar.pdb
